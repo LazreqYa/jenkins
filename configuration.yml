@@ -1,0 +1,5 @@
+jenkins:
+  systemMessage: "(vscode) Hello! Welcome to my Jenkins instance :)"
+
+jobs:
+  - file: ./home/yan/.jenkins/var/jenkins_home
